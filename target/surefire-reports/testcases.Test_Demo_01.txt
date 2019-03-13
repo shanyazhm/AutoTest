@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: testcases.Test_Demo_01
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.043 s <<< FAILURE! - in testcases.Test_Demo_01
+test_01(testcases.Test_Demo_01)  Time elapsed: 0.428 s  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at testcases.Test_Demo_01.test_01(Test_Demo_01.java:18)
+
